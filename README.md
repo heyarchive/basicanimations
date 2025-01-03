@@ -7,4 +7,4 @@
 4. Add `ensure basicanimations` to your server.cfg
 5. Restart the server
 
-Its a really basic script but it includes pointing finger by clicking "B" and putting hands up by clicking "C" super simple!
+Its a really basic script but it includes pointing finger by clicking "B" and putting hands up by clicking "X" super simple!
