@@ -1,4 +1,4 @@
-BASIC ANIMATIONS
+## BASIC ANIMATIONS
 
 ## Installation
 1. Download this repo
